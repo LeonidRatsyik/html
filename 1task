@@ -1,0 +1,25 @@
+<!DOCTYPE html>
+<html lang="ru">
+<head>
+    <title>Домашнее задание 1й урок html</title>
+    <p style="font-family: Calibri; font-size: 14"><i>Формулы и свойства степеней </i>
+    </p>
+</head>
+<body>
+    <p style="font-family: Calibri; font-size: 14"><strong>Свойства и формулы степеней</strong> используются при сокращении и упрощении сложных выражений, при&nbsp;<a href="http://webmath.ru/">решении уравнений</a>&nbsp;и неравенств. Свойства степеней можно использовать совместно с&nbsp;<a href="http://www.webmath.ru/poleznoe/table_stepenei.php">таблицей степеней</a>&nbsp;и&nbsp;<a href="http://www.webmath.ru/poleznoe/table_umnogeniya.php">таблицей умножения.</a>
+    </p>
+    <center><p>a<strong><sup>1</sup></strong>&nbsp;= а, a<strong><sup>0</sup></strong>&nbsp;= 1 (a &ne; 0), a<strong><sup>-n</sup></strong>&nbsp;= 1/a<strong><sup>n</sup></strong>.
+    </p>
+       <ul></center>
+        <blockquote>
+        <li>a<strong><sup>m</sup></strong>a<strong><sup>n</sup></strong>= a<strong><sup>m+n </sup></strong>;</li>
+        <li>a<strong><sup>m</sup></strong>/a<strong><sup>n</sup></strong>= a<strong><sup>m-n </sup></strong>;</li>
+        <li>(ab)<strong><sup>n</sup></strong>= a<strong><sup>n</sup></strong>b<strong><sup>n </sup></strong>;</li>
+        <li>(a<strong><sup>m</sup></strong>)<strong><sup>n</sup></strong>= a<strong><sup>mn </sup></strong>;</li>
+        <li>(a/b)<strong><sup>n</sup></strong>= a<strong><sup>n</sup></strong>/b<strong><sup>n</sup></strong>.</li>
+        </blockquote>
+       </ul>
+    <p style="font-family: Calibri; font-size: 14"><br />Если после изучения данного теоретического материала (Формулы и свойства степеней) у Вас возникли проблемы при решении задач на данную тему или появились вопросы образовательного характера, то Вы всегда можете задать их на нашем&nbsp;<a href="http://webmath.ru/forum/index.php">форуме</a>.
+    </p>
+</body>
+</html>               
