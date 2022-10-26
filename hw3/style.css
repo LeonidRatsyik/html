@@ -63,13 +63,13 @@
 
 
 @font-face {font-family: "CoreSansNSCW01-75ExtraBold"; src: 
-	url("fonts/CoreSansNSCW01-75ExtraBold.ttf") format("truetype"), 
+	url("CoreSansNSCW01-75ExtraBold.ttf") format("truetype"), 
     font-style: normal; 
     font-weight: normal;
 }
 
 @font-face {font-family: "BON"; src: 
-	url("fonts/BON") format("truetype"), 
+	url("BON") format("truetype"), 
     font-style: normal; 
     font-weight: normal; 
 }
