@@ -3,7 +3,7 @@
 
 
 .banner{
-	background: url('../img/main-bg.jpg');
+	background: url('../main-bg.jpg');
 	height: 100vh;
 	background-size: 100%;
 	display: flex;
